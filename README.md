@@ -1,18 +1,12 @@
-### Hi there 👋
+Olá pessoal, me chamo Lucas da Silva Cimmin e estou começando agora meu aprendizado em Desenvolvimento Web.
 
-#Cimmin
+<strong>Hobbies<strong>
+Gosto de sair com meus amigos no tempo livre, jogar futebol e jogar jogos no computador. Possuo ensino médio completo, e no atual momento estou participando da 8º edição do programa starter full stack Web Developer.
 
-<!--
-**Cimmin/Cimmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>Experiências profissionais<strong>
+Possuo experiência com atendimento ao cliente, por telefone, chat e email.
 
-Here are some ideas to get you started:
+<strong>Linguagem de programação favorita<strong>
+No momento ainda estou no inicio do programa Web Developer, e até o momento estou gostando bastante da linguagem HTML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No momento estou estudando programação Front-end, estou aprendendo a desenvolver com HTML, CSS e irei entrar em JavaScript
